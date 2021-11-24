@@ -1,0 +1,7 @@
+document.writeln(`
+<tr><td tooltip="内容为2022版adobe软件，包含PS、AE、PR、AU、ME、LR、AI，需要者自取。">Adobe2022版软件（PS、AE、PR、AU、ME、LR、AI）</td><td>11.5GB</td><td class="yyrj_k">B4IE6SIUSWMAGYQHA652EZ5X7KZ4L3XDHBJS3RZ5TVQ67XQMCUBUSQ</td></tr>
+<tr><td tooltip="CorelDRAW Graphics Suite 是一个强大的矢量图设计软件支持多平台，2019年终于推出了Mac版本，算是一大进步，记得上次推出Mac版本应该是很久以前的事情了；通过这款卓越的图形设计软件，您可以找到更快，更智能，更多地方工作所需的所有专业矢量插图，布局，照片编辑和设计工具。">CorelDRAW Graphics Suite 2021</td><td>1.7GB</td><td class="yyrj_k">A4T4JU4M26NMEPHQBWR2IDN3BVAUSHJ7QQK5PY5SW6MYXCJVILJEIA</td></tr>
+<tr><td tooltip="(达芬奇调色)Blackmagic Design DaVinci Resolve Studio 17作为实时调色系统被广泛应用于电影、电视剧、广告、独立电影、音乐电视等制作。它是让高端影片令人屏气凝神的不同所在！Blackmagic Design DaVinci Resolve Studio 17 是迄今最先进的调色工具和专业多轨道音视频剪辑工具，您只需要这一个软件便能完成剪辑、调色、后期及交付等工作！它当之无愧地成为了好莱坞电影的首选解决方案。">视频编辑软件：达芬奇调色17.4 学习版</td><td>2.6GB</td><td class="yyrj_k">A44IBN3WJTHMPUOOENT4SWIPXWMM4LMZLNGZ2DRENTHRGOVURUH7QQ</td></tr>
+<tr><td tooltip="包含Adobe所有软件,一件安装_Win10平台，建议win10系统更新最新版,内部软件已全部破解，选择自己需要的安装即可。">Adobe全家桶_2021大师版_v11.3#2_20210317(已破解，一件安装)</td><td>17.3GB</td><td class="yyrj_k">B4MA66Q3CKOSPXJFBRR2S5HARCZLZERP7HUQRXICGONHPN3MNFGKWA</td></tr>
+<tr><td tooltip="下载好点击setup就能安装，无需破解">PS2021直装版</td><td>2.36GB</td><td class="yyrj_k">B3AJLDNSEAS2ID6TZMNIJ2NMN2XWMBQLFAHWQVWHWOBTLJVVOFPJKY6</td></tr>
+`)
