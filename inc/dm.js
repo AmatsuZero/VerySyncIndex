@@ -1,4 +1,5 @@
 document.writeln(`
+<tr><td tooltip="缘分の天空  113G典藏资源。。适合收藏。配套HiRes专辑">缘分の天空 yzk蓝光圆盘典藏资源+[HiRes]金标音源</td><td>113GB</td><td class="dm_k">B3APF6B5G2EW55RKUFMYLLMH67JX66HOU23C5LQOBXR5MYYA7XQ4VQ6</td></tr>
 <tr><td tooltip="一人之下1到4季（第4季更新中）">一人之下1到4季（第4季更新中）</td><td>22GB</td><td class="dm_k">B4TLRD5MIVDKSI5NBEGW6CE2BDBZHFCR7B4ZB2ULY73GKQZW4UPGDA</td></tr>
 <tr><td tooltip="2014年，来历不明的太空舰队进入了太阳系。名为“饕餮”的外星人以取悦冥河星系主神卡尔为目的，意图在地球制造死亡。地球文明正处于核前时代，目前的军事实力无法面对这场浩劫。面对危机，华夏军方和万年前德诺星系诺言之星的指挥官杜卡奥决定建立“雄兵连”，唤醒千年以前杜卡奥散布在地球的神河基因，配之以暗合金装甲，建立一支可抵百万雄兵的超级连队。一句话，我彦最美！">雄兵连1-4季合集</td><td>21.5GB</td><td class="dm_k">B4TTURNKRMUS2KBFDOATX6O4Y26F5G6OMPORIECWXNKGDGIOWSU6ZQ</td></tr>
 <tr><td tooltip="动漫新番+剧场版（持续更新）喜欢看动漫的可以下载同步。">动漫新番+剧场版（持续更新）</td><td>136GB</td><td class="dm_k">B3AN6QTDEXM4TZZWUTIMSIQ5JAYFXTQ2YAFJX3BBI7OAQDBGYYISHXI</td></tr>
