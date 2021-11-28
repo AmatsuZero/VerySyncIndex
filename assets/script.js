@@ -15,7 +15,6 @@ function renderLink() {
 			var title = alist[i].childNodes[0].innerText;
 			var key = alist[i].childNodes[2].innerText;
 			
-			
 			if (key) {
 				var note = alist[i].childNodes[0].getAttribute("tooltip");
 				var a = document.createElement("a");
