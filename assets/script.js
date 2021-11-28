@@ -14,10 +14,10 @@ function renderLink() {
 		for (var i = 0; i < alist.length; i++) {
 			var title = alist[i].childNodes[0].innerText;
 			var key = alist[i].childNodes[2].innerText;
-			var note = alist[i].childNodes[0].firstChild.attributes.value;
+			
 			
 			if (key) {
-				console.log(note);
+				var note = alist[i].childNodes[0].getAttribute("tooltip");
 				var a = document.createElement("a");
 				a.setAttribute("target", "_blank");
 				a.setAttribute("href", "http://tool.gitcafe.ink/sync/do.php?do=tousu&id=" + key + "&title=" + title);
