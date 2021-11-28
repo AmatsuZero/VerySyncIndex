@@ -1,9 +1,10 @@
 document.writeln(`
-<tr><td tooltip="经典动漫（长篇，完结，经典等）（长期更新）">经典动漫（长篇，完结，经典等）（长期更新）</td><td>624GB</td><td class="dm_k">B4QEA5ZPJZHVJBOLVCT57FD45UX3STD44JY6ISZU2CRVMHYMAL72PA</td></tr>
+<tr><td tooltip="【动漫】经典动漫（长篇，完结，经典等）（长期更新）">【动漫】经典动漫（长篇，完结，经典等）（长期更新）</td><td>624GB</td><td class="dm_k">B4QEA5ZPJZHVJBOLVCT57FD45UX3STD44JY6ISZU2CRVMHYMAL72PA</td></tr>
+<tr><td tooltip="动漫新番+剧场版（持续更新）长期更新">动漫新番+剧场版（持续更新）</td><td>380GB</td><td class="dm_k">B3AN6QTDEXM4TZZWUTIMSIQ5JAYFXTQ2YAFJX3BBI7OAQDBGYYISHXI</td></tr>
+<tr><td tooltip="宫崎骏28部动画作品终极收藏版1080P">宫崎骏28部动画作品终极收藏版1080P</td><td>129GB</td><td class="dm_k">B4VM3CS4GJLUIC36KXA2LHVMC5MF7RXS7ALL56RM74OGHJQ7WFX5ZQ</td></tr>
 <tr><td tooltip="缘分の天空  113G典藏资源。。适合收藏。配套HiRes专辑">缘分の天空 yzk蓝光圆盘典藏资源+[HiRes]金标音源</td><td>113GB</td><td class="dm_k">B3APF6B5G2EW55RKUFMYLLMH67JX66HOU23C5LQOBXR5MYYA7XQ4VQ6</td></tr>
 <tr><td tooltip="一人之下1到4季（第4季更新中）">一人之下1到4季（第4季更新中）</td><td>22GB</td><td class="dm_k">B4TLRD5MIVDKSI5NBEGW6CE2BDBZHFCR7B4ZB2ULY73GKQZW4UPGDA</td></tr>
 <tr><td tooltip="2014年，来历不明的太空舰队进入了太阳系。名为“饕餮”的外星人以取悦冥河星系主神卡尔为目的，意图在地球制造死亡。地球文明正处于核前时代，目前的军事实力无法面对这场浩劫。面对危机，华夏军方和万年前德诺星系诺言之星的指挥官杜卡奥决定建立“雄兵连”，唤醒千年以前杜卡奥散布在地球的神河基因，配之以暗合金装甲，建立一支可抵百万雄兵的超级连队。一句话，我彦最美！">雄兵连1-4季合集</td><td>21.5GB</td><td class="dm_k">B4TTURNKRMUS2KBFDOATX6O4Y26F5G6OMPORIECWXNKGDGIOWSU6ZQ</td></tr>
-<tr><td tooltip="动漫新番+剧场版（持续更新）喜欢看动漫的可以下载同步。">动漫新番+剧场版（持续更新）</td><td>136GB</td><td class="dm_k">B3AN6QTDEXM4TZZWUTIMSIQ5JAYFXTQ2YAFJX3BBI7OAQDBGYYISHXI</td></tr>
 <tr><td tooltip="刃牙死囚篇动漫">刃牙死囚篇</td><td>3.69GB</td><td class="dm_k">B3ALAAF33NEILH64LKIUXJLJO3JYFKUDTZZUZ7CWNFRFPBEOWJD6RDK</td></tr>
 <tr><td tooltip="宫崎骏动漫全集">宫崎骏动漫全集</td><td>204GB</td><td class="dm_k">B4SMMSSTINTW7KVQT4XVRDPRYUBKKU7IORXMBMPADP7FEX7NBKUBKA</td></tr>
 <tr><td tooltip="龙珠四部全 前三部是480P国粤日三语简繁，第四部高清，视频较大。">七龍珠 Dragon Ball Z GT 超</td><td>290GB</td><td class="dm_k">B4O47RUZTVFJY76DSVFBG2YME3VECNXFGZRKL6EVS6XKQS3Q2EV6JQ</td></tr>

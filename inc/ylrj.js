@@ -1,7 +1,7 @@
 document.writeln(`
+<tr><td tooltip="童年的回忆">街机合集（经典街机+小霸王+口袋妖怪+三国战纪西游记等）可用键盘手柄</td><td>3.76GB</td><td class="ylrj_k">B3AMPZQNCXAXFF7KHUNPAJ2TVRHX4ZAAMNE3AXPFA2UH57VRZ33DDUM</td></tr>
 <tr><td tooltip="暴力摩托">暴力摩托</td><td>331MB</td><td class="ylrj_k">B4BH35VRVJXOHERPXJYF3HRS7UYMP6TPWHFKGCLTGPJCJP4AFYIOTA</td></tr>
 <tr><td tooltip="收集自网络mame街机共8628个游戏">街机集合</td><td>17.5GB</td><td class="ylrj_k">B4ACQS3H2K6F7KU7YNCWCCKBWEIFBRPYHM2RUBEGWG2B7BLCLYACAA</td></tr>
-<tr><td tooltip="街机合集（经典街机+小霸王+口袋妖怪+三国战纪西游记等）可用键盘手柄.同年的回忆。">街机合集（经典街机+小霸王+口袋妖怪+三国战纪西游记等）可用键盘手柄</td><td>3.78GB</td><td class="ylrj_k">B3AMPZQNCXAXFF7KHUNPAJ2TVRHX4ZAAMNE3AXPFA2UH57VRZ33DDUM</td></tr>
 <tr><td tooltip="帝国时代2征服者，童年的回忆。">帝国时代2征服者</td><td>2.73GB</td><td class="ylrj_k">B3ALBSUUIYPQTTMBZVOXUZ2DBTSO6FKXSRFSTT7UU2VQQG7UVB6GTOC</td></tr>
 <tr><td tooltip="红警1和红警2加其他合集">红警合集</td><td>9.13GB</td><td class="ylrj_k">B3APJXJSR6G732IVKDOKGUYDT6OM3JRHKZCD3TNDXO6GSXX4NOMZ6HA</td></tr>
 <tr><td tooltip="《YU-NO 在这世界尽头咏唱爱的少女》PC-98版移植。画面和音乐与PC-98版相同，需自行解决兼容性问题，下载前三思。">《YU-NO 在这世界尽头咏唱爱的少女》</td><td>456MB</td><td class="ylrj_k">B4JZUXMQLVRPH4TSZUW55DKPBXW34RCG5DOIM4OW4O2DSXL6S6HWPA</td></tr>
