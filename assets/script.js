@@ -14,10 +14,10 @@ function renderLink() {
 		for (var i = 0; i < alist.length; i++) {
 			var title = alist[i].childNodes[0].innerText;
 			var key = alist[i].childNodes[2].innerText;
-			if (title) {
+			if (key) {
 				var a = document.createElement("a");
 				a.setAttribute("target", "_blank");
-				a.setAttribute("href", "http://tool.gitcafe.ink/sync/do.php?id=" + key + "&title=" + title);
+				a.setAttribute("href", "http://tool.gitcafe.ink/sync/do.php?do=tousu&id=" + key + "&title=" + title);
 				a.className = "ts";
 				a.title = "若此key无效或违规，请举报";
 				a.innerHTML = "&nbsp;&nbsp;&nbsp;举报";
@@ -25,7 +25,7 @@ function renderLink() {
 
 				var up = document.createElement("a");
 				up.setAttribute("target", "_blank");
-				up.setAttribute("href", "http://tool.gitcafe.ink/sync/do.php?id=" + key + "&title=" + title);
+				up.setAttribute("href", "http://tool.gitcafe.ink/sync/do.php?do=update&id=" + key + "&title=" + title);
 				up.className = "ts";
 				up.title = "Key资源所有者可以更新信息";
 				up.innerHTML = "&nbsp;&nbsp;&nbsp;更新";
