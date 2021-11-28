@@ -39,7 +39,6 @@ document.writeln(`
 <tr><td tooltip="以前的神key资源，大片抢先看，使用微力同步来同步跟新">神key资源，大片抢先看</td><td>200GB</td><td class="dy_k">B3APS3DCQ6UJOQKOYOOLXSUKAHDQNN2X6BAC6WSNKRX22RJGS6R3PL2</td></tr>
 <tr><td tooltip="2T以上大小，全部是高清电影，具体自己同步看下，记得一定要开启选择性同步">2T大小2000部高清电影</td><td>2.1TB</td><td class="dy_k">B3AP7NDC3PPC3YUR7EPJ3MYEKLNAVIWAWANJB23PJSO4G3NTIVQ5B3S</td></tr>
 <tr><td tooltip="言叶之庭是新城海关于高中生和学校老师之间发生的恋情故事，其实说的就是师生恋，故事不长，但是画面极其精致，电影主要是下雨场景，两人每次都在下雨时到公园亭子里面。。。">新城海动画电影：《言叶之庭》</td><td>1.03GB</td><td class="dy_k">B3AKJJ5SHB7ZQKXKLDGFTB7TGZGHENBHTT37BQZBKVVDG7I3JQTKUVC</td></tr>
-
 <tr><td tooltip="切尔诺贝利720p中英文字幕版，上次发了，但不小心删掉了，所以重发。请管理员删除前面的。">重发《切尔诺贝利720p》中英文字幕</td><td>3.66GB</td><td class="dsj_k">B3ANUVDP6WPEOKEILE7VLF3SD2HSK6MQGDAQTUHDJTJIJ4XTRSM7RJK</td></tr>
 <tr><td>Love.Death.and.Robots.S01.1080p.NF.WEBRip.DDP</td><td>8.35GB</td><td>B3AKCYQUYCEENMBRNZSXDHY6HVIQUVDBBBFQA2XB4BL3OAGHDYJXQXA</td></tr>
 <tr><td>漫威电影宇宙</td><td>34.6GB</td><td class="dy_k">B3AIBUAORLFU25KTJRNMRKIBQ2Z6U5YQKEB3M57GASIMRAFKGRCC4CU</td></tr>
@@ -47,7 +46,6 @@ document.writeln(`
 <tr><td tooltip="钢铁侠1,2,3，无敌浩克，雷神1,2，美国队长1,2,3，复联1,2,3,4，银河护卫队1,2，蜘蛛侠-英雄归来，奇异博士，黑豹，蚁人">漫威系列电影，共22部</td><td>222GB</td><td class="dy_k">B3AICM5RKKADABJY23JT3SL2GGNMKOH4F7XJEUSXJHAYQFTIM4ULDTK</td></tr>
 <tr><td>血战太平洋</td><td>5.18GB</td><td class="dy_k">B3AO3KYRQ5OLI75QFQGMBBHIJ34NK2OI7IHP62XKF6ILNDB6I6SAALM</td></tr>
 <tr><td>电影<异形>系列</td><td>5.93GB</td><td class="dy_k">B3AOVI5NJ23IGDA52BPWRNW7NVDF7GEPMYKIWN7CUY5ANOTVKNEOEFM</td></tr>
-
 <tr><td>[美国队长].Captain.America.BD.1080P.x265.10bi</td><td>未知</td><td class="dy_k">B3AJHYAWYEKRTABSWEOE6OPWAWJGLD2AIDQ2EJENB5BANRJHWP2PTRK</td></tr>
 <tr><td>[钢铁侠3].Iron.Man.3.2013.BD.1080P.x265.10bit</td><td>4.24GB</td><td class="dy_k">B3AK6LBEF5F5MPNWBN434L2FMPUGOPPIYU3ROK353JH6MB2NDZDIHAM</td></tr>
 <tr><td>Captain.Marvel.2019.-惊奇队长1080P-无字幕版+</td><td>9GB</td><td class="dy_k">B3AJQ5TTUVYMQE2NVDBPNJM427RAHKAFKO7OTQ6MKS4QDBKFHJ5FZ4A</td></tr>
@@ -63,19 +61,16 @@ document.writeln(`
 <tr><td>[雷神3.诸神黄昏].Thor.Ragnarok.2017.BD.1080P.</td><td>4.67GB</td><td class="dy_k">B3AIKVRA45CA55DF37HP5IKYJOELQI5ZPNSDJVRA33IWU33IOREMTM4</td></tr>
 <tr><td>贝优妮塔3D</td><td>500MB</td><td class="dy_k">B2MSVFZHR4LDQJDJAWJFD7ADZCJIH3C5HJLOP5P3Z3BCX74AUNKHL3RIAF</td></tr>
 <tr><td>与神同行2</td><td>2.77GB</td><td class="dy_k">B3AJJ2OOA3H2XNUBHGWO2GLAN3UZBSG5X3MRGGNFQXHZQB57CQEGGDK</td></tr>
-
 <tr><td>电锯惊魂1245678集</td><td>10.6GB</td><td class="dy_k">B3AKE4CIHLPSVCYIH75CVWLCSFA52ZZW3VY3PYKCLL6WFNOJQ3X4BZQ</td></tr>
 <tr><td>红雀+信笺故事 The Tale 2018（高清）</td><td>3.29GB</td><td class="dy_k">B3AJ3L575Z3F24XO3BLCSVRHGQ6LNN5CNA2NKQJBW2DM2XOR4GPPGKG</td></tr>
 <tr><td>斯大林之死</td><td>1.29GB</td><td class="dy_k">B2OZGBDLBIUWHBRSOXJR3W325MD23X2BIE26SWNWAACCZSPVQAJETRNTA5</td></tr>
 <tr><td>流浪地球，疯狂外星人，飞驰人生等热门电影</td><td>10</td><td class="dy_k">B3AJN6NDK3FA6BAKYUEJVWPUH2H2MRUHIGAHQTF6NTDBK4Z3KMCAV3E</td></tr>
 <tr><td>头号玩家 Ready.Player.One.2018.720p.KORSUB.HD</td><td>4.48GB</td><td class="dy_k">B3ALYUPUZ2JQESC7L24EXPB4HQLDEOVU5MI77XKOCNLVNSQASYJRKPW</td></tr>
-
 <tr><td>电影<生化危机>系列</td><td>51GB</td><td class="dy_k">B3AIEDB3RCOSFVQCQQGS55MPIGV63IMEFPS3PXA3F43LGBNMYSPF2XC</td></tr>
 <tr><td tooltip='在切尔诺贝利异常区，在第4发电机组的保护性石棺下，全球金泰克公司正在进行非法建筑。这些计划需要阻止建立一个特别的州际委员会，但就在新闻发布会上，不明身份的恐怖分子组织的头目。他成功地与该区域作战，但现在似乎该区域本身已经俘获了他。他的四分之一的朋友——一切，时间，时间和夜晚——不需要其他任何东西，只是再次踏上旅程，试图拯救帕夏，并制造一个全球性的威胁。'>【禁片】切尔诺贝利</td><td>16.2GB</td><td class="dy_k">B3AM5AGMYF2XDRB2MJJC5JJ4UCJIMHRXKEJXHAO6TLM5UIG2CPOULBC</td></tr>
 <tr><td>布兰卡和弹吉他的人[超清版]</td><td>1.1GB</td><td class="dy_k">B2NM2TKFKGAAIWFWI6O2T7O6NYNHPTGSSZFKHCSWS7GWJM4A44HZHHFVQ7</td></tr>
 <tr><td>古惑仔.1996-2001.国粤双语</td><td>16.4GB</td><td class="dy_k">B2AGRCA4NON3VNWUIBD2ZSMSMOVIG4YCMKHXMNALXAONT6TD64PKH3EJAJ</td></tr>
 <tr><td>鸭王.The.Gigolo.2015.BD1080P.X264.AAC.Cantone</td><td>4.4GB</td><td class="dy_k">B3AKRDZAD274XPI4D37UFA4EZEHWOJ5MOIUQIF3MNXAGNMGMCDQAJFQ</td></tr>
-
 <tr><td>几年珍藏电影</td><td>658GB</td><td class="dy_k">B2JCLMVJWX4CW7AP3JMFZJNDAFKWJVARQMY6ZIOYFA6VQYAPONNZFEGFA4</td></tr>
 <tr><td>詹姆斯·卡梅隆的科幻故事（1080p）</td><td>2.67GB</td><td class="dy_k">B3APWQBREHF2ELJUR2BIKBWCNB6HBX4YLGDTMNLTQASC22L2MN5FNMO</td></tr>
 <tr><td>发个电影合集</td><td>15GB</td><td class="dy_k">B247FPZ6J4IE2B77SBQKH5WQAGLQGRUT3BK6QU3CD5O5RBKLDZHPYQMWQQ</td></tr>
