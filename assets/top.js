@@ -4,7 +4,7 @@ href=''>微力同步资源Key分享</a></h1><h4>本KEY：B3ANHK2Z5CUQKJDEJZL55C2
 <h4>Tips: 可以使用Ctrl + F 搜索资源哦～</h4>
  <div class="center"> <a
 tooltip="你可以把你的资源投稿到神key，在打开后的页面中填写好表单即可" class="ui-button button-success"
-href="http://tool.gitcafe.ink/sync/form.html"
+href="http://tool.gitcafe.ink/sync/do.php?do=tougao"
 target="_blank">点击投稿资源</a> &nbsp;&nbsp;&nbsp;&nbsp;<a
 tooltip="打开后用微信扫码关注一个公众号，这个是用来推送微信信息的，如果神key有资源更新的话，会通过这个公众号发信息提醒你的，强烈建议关注"
 class="ui-button"
