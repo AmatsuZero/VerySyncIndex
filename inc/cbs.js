@@ -11,5 +11,4 @@ document.writeln(`
 <tr><td>出版书籍合集</td><td>7GB</td><td class="cbs_k">B3ANX67NKYRSY4APNO5UFXFMRBHEC4SWEEZIRSE6WTOGWVJHGEUQXFU</td></tr>
 <tr><td>《解罪师１蝶变》</td><td>2</td><td class="cbs_k">B2WM3QQKXYPLUL47L4UNFLIVKI7YNJ4UKRSSD2DXFOZTH7756UE723WFQV</td></tr>
 <tr><td>自购正版书mobi</td><td>20MB</td><td class="cbs_k">B2NJCCXPJY44AZ7FX2CLQSU3DIGHOH6RKYGYEVGQQEHY43DE4RNERS6CQG</td></tr>
-
 `)
