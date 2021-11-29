@@ -1,3 +1,0 @@
-document.writeln(`
-<tr><td tooltip="Autodesk® AutoCAD 是全球著名的专业计算机辅助设计软件，用于二维绘图、详细绘制、设计文档和基本三维设计，广泛应用于机械设计、工业制图、工程制图、土木建筑、装饰装潢、服装加工等多个行业领域。借助Autodesk AutoCAD绘图程序软件您可以准确地和客户共享设计数据，您可以体验本地DWG格式所带来的强大优势。DWG是业界使用最广泛的设计数据格式之一，您可以通过它让所有人员随时了解您的最新设计决策。AutoCAD支持演示的图形、渲染工具和强大的绘图及三维打印功能，让您的设计将会更加出色。">Autodesk CAD v2022.1.1 高级版</td><td>4.28GB</td><td class="其它rj_k">A4SPFLMGPIX2TC6ICMES3GHMRCZTL3CCQJ63SRN5MBREHTTNQPRMNA</td></tr>
-<tr><td tooltip="Beyond Compare是一套由Scooter Software开发的软件。 它的主要目的是可以能够比较以下三种：  电脑上两个目录的内容，  电脑计算机上的目录和ftp地址的内容  两个文本文件程序的内容（包括UTF-8， html和delphi源程序等文本文件）。  由于这些功能， Beyond Compare用于版本控制和数据信息同步。">Beyond Compare 4.4.0 破解版</td><td>67MB</td><td class="其它rj_k">A4ZJZWDMZDW7PP6G36DFUKO3SWPIJBY2RW2I3JWDGUDY53JAO77G5A</td></tr>
