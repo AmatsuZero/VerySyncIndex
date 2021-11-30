@@ -1,4 +1,5 @@
 document.writeln(`
+<tr><td tooltip="爱死机第一季1080P">爱死机第一季1080P</td><td>8.35GB</td><td class="dy_k">B3AKCYQUYCEENMBRNZSXDHY6HVIQUVDBBBFQA2XB4BL3OAGHDYJXQXA</td></tr>
 <tr><td tooltip="电影合集（持续更新）">电影合集（持续更新）</td><td>133GB</td><td class="dy_k">B43M32JSIW7USG5XOFBQ6BO5VVMK4ZVI5BREMQKD7BPPXDE47IJQHQ</td></tr>
 <tr><td tooltip="黑寡妇HD1080p">黑寡妇</td><td>5.77GB</td><td class="dy_k">B4BIUEUK4PQE4NNCFEWSKTSJ4MTCW6J6SMROOPV6655AY74HLWTR4A</td></tr>
 <tr><td tooltip="《爱在黎明破晓前》《爱在日落黄昏前》《爱在午夜降临前》三部曲，这个系列的爱情故事，没有海誓山盟，没有灰姑娘和白马王子，没有婆媳撕逼，没有曲折回转，没有白血病失忆症，它几乎只有话痨，它的经典在于它比现实主义电影更贴近现实，而爱情的现实除了性，还是在于交流。">经典爱情片，《爱在……》三部曲</td><td>4.64GB</td><td class="dy_k">B46IECHYBLUOJGA6WLOYGYD7H6Y5MAXKHT7I4ILY66YMTJAQIE24SA</td></tr>
@@ -40,7 +41,6 @@ document.writeln(`
 <tr><td tooltip="2T以上大小，全部是高清电影，具体自己同步看下，记得一定要开启选择性同步">2T大小2000部高清电影</td><td>2.1TB</td><td class="dy_k">B3AP7NDC3PPC3YUR7EPJ3MYEKLNAVIWAWANJB23PJSO4G3NTIVQ5B3S</td></tr>
 <tr><td tooltip="言叶之庭是新城海关于高中生和学校老师之间发生的恋情故事，其实说的就是师生恋，故事不长，但是画面极其精致，电影主要是下雨场景，两人每次都在下雨时到公园亭子里面。。。">新城海动画电影：《言叶之庭》</td><td>1.03GB</td><td class="dy_k">B3AKJJ5SHB7ZQKXKLDGFTB7TGZGHENBHTT37BQZBKVVDG7I3JQTKUVC</td></tr>
 <tr><td tooltip="切尔诺贝利720p中英文字幕版，上次发了，但不小心删掉了，所以重发。请管理员删除前面的。">重发《切尔诺贝利720p》中英文字幕</td><td>3.66GB</td><td class="dsj_k">B3ANUVDP6WPEOKEILE7VLF3SD2HSK6MQGDAQTUHDJTJIJ4XTRSM7RJK</td></tr>
-<tr><td>Love.Death.and.Robots.S01.1080p.NF.WEBRip.DDP</td><td>8.35GB</td><td>B3AKCYQUYCEENMBRNZSXDHY6HVIQUVDBBBFQA2XB4BL3OAGHDYJXQXA</td></tr>
 <tr><td>漫威电影宇宙</td><td>34.6GB</td><td class="dy_k">B3AIBUAORLFU25KTJRNMRKIBQ2Z6U5YQKEB3M57GASIMRAFKGRCC4CU</td></tr>
 <tr><td tooltip="描写美国101空降师506团E连在第二次世界大战欧洲战场的真实故事。在二战中，E连的阵亡人数是该连编制人数的1.5倍。中英文字幕，10集">美剧：兄弟连</td><td>10.2GB</td><td class="dy_k">B3AO3WAXBW2KQ5ILCMSKZWF4QLLZRZSKG7QOIXIPHDOS63KCJOUOPYU</td></tr>
 <tr><td tooltip="钢铁侠1,2,3，无敌浩克，雷神1,2，美国队长1,2,3，复联1,2,3,4，银河护卫队1,2，蜘蛛侠-英雄归来，奇异博士，黑豹，蚁人">漫威系列电影，共22部</td><td>222GB</td><td class="dy_k">B3AICM5RKKADABJY23JT3SL2GGNMKOH4F7XJEUSXJHAYQFTIM4ULDTK</td></tr>
