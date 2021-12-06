@@ -62,7 +62,6 @@ document.writeln(`
 <tr><td>女神速成班：如何打造你吸引力</td><td>1.2G</td><td class="zspx_k">B3AIGZ5P2V623IHSI2WCPWBTDGIWT32D6IZZCCHZIUYJW4HX27G5GNO</td></tr>
 <tr><td>剧本杀（4个付费剧本）</td><td>288MB</td><td class="zspx_k">B22WK7WT35DR7DLH3UTTIFTNVJZMDIDDA7JSLD3C756CSWGKJQCPFKP3QO</td></tr>
 <tr><td>老课本 8090年代小学语文课本</td><td>759MB</td><td class="zspx_k">B2DKHAX74UL2BXGRNME5MMHY2ZP66JFCH5Y4NZCIWBCYUVVJ32TKHVXVAP</td></tr>
-<tr><td>近视界的奇迹，11堂课教你摘掉眼镜</td><td>900MB</td><td class="zspx_k">B24SKGQQU5T73KWSIRBUA3XKLQBAB3R5U62TJK7PY7GL6X2BWG6QXD5ZQZ</td></tr>
 <tr><td>监理资料库（文件较大）</td><td>22.7GB</td><td class="zspx_k">B2SGZTHLRQKZYJDJUFR53XSHSYIR4CIHOFELPLGYEEJHAHA4HX7RASGZQT</td></tr>
 <tr><td>188买的把妹教程秘籍</td><td>5.09GB</td><td class="zspx_k">B3AMXXIEPV35WYXSTIKFMPHO5S6DHTBLOZHIFZSHLSHVWK77QGWTDKG</td></tr>
 <tr><td>李叫兽14天改变计划 三节课升级版</td><td>5GB</td><td class="zspx_k">B2QJMEYTPCKH6U36ORXA4CJTHJ3S4TYS3UVTLYJDHGH6AW7ZVGTWDQ5EAX</td></tr>
