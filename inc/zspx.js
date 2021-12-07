@@ -1,6 +1,5 @@
 document.writeln(`
 <tr><td tooltip="绿色编程工具与书籍">程序猿（媛）可进</td><td>1GB</td><td class="zspx_k">B4R4CCADQTPIMU2R5CAJ5NCHHMOSAEAZ54LCDAEFYXAY5ZO4LOHWYA</td></tr>
-<tr><td tooltip="国外一个网友停止维护的资源，各种电子书">各种电子书1.62T</td><td>1620GB</td><td class="zspx_k">B4NB726EWYVXFMHBH262VLS23QT7GBUHW6463QTWFUHIO2323PJCZA</td></tr>
 <tr><td tooltip="内部资料">【社群研究所】运营资料包</td><td>1.62GB</td><td class="zspx_k">B4T7RQX4F63ZCQOLMYZ2HSKHNPSNPD5X56B6RO2BU55AP6C7CIHICA</td></tr>
 <tr><td tooltip="PPT学习模板源文件">20000多精品PPT压缩版</td><td>63.3GB</td><td class="zspx_k">B4SIYPGRQYFOQ7YM6QULXH4DJIHHDLUE7NOJQLNBOIAWT5OCNNF3DA</td></tr>
 <tr><td tooltip="常用软件教程">常用软件教程</td><td>7MB</td><td class="zspx_k">A4CIUVLLZXDUDSYBDNARF2KTYUICG6Q4QKB5RKYWMVKIWFMDYYO3AA</td></tr>
