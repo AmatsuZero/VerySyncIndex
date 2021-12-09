@@ -1,4 +1,5 @@
 document.writeln(`
+<tr><td tooltip="Upload.S01美国科幻喜剧类网络电视。本剧由格雷格丹尼尔斯创造，由罗比·阿梅尔主演。 在不远的2033年，六家科技公司运营虚拟现实酒店，将死之人可以“上传（Upload）”其中安享后世。紧巴巴过日子的诺拉蜗居纽约布鲁克林，并为“豪丽禅·湖景（Horizen Lakeview）”豪华数字身后的世界提供“天使”客服。洛杉矶浪荡但小有所成的程序员 内森 突然遭遇自动驾驶车事故，伤势严重命悬一线，富二代女友 英格丽 说服他永久上传，进入 诺拉 供职的豪丽禅虚拟现实世界，本剧由此展开。">美剧《上载新生》第一季</td><td>17.27GB</td><td class="dsj_k">B4VN2PWMYOPORNMBRDPVOU56TBU4NF4WIGNQ3CIG2GFUTMHL4OB4KQ</td></tr>
 <tr><td tooltip="现在更新了鹰眼第一季（1-2集）">美剧合集（持续更新）</td><td>9.9GB</td><td class="dsj_k">B4ERMTWDPLJPC37THYZD7OV5EOHATFLS2QXFFDPSYGZ6MIQB2ID2CQ</td></tr>
 <tr><td tooltip="人民的名义4k60帧源">人民的名义4k60帧源</td><td>119GB</td><td class="dsj_k">B3AKTL6SMX4I2ILPKUAZKQM544GWKSK4ALG37OT7HHAIGTYEDLCWNUM</td></tr>
 <tr><td tooltip="良医第四季是美国2020上映的剧情电视剧,弗莱迪·海默主演的医疗剧集《良医》发布续订第4季。">美剧《良医》第四季</td><td>41.1GB</td><td class="dsj_k">B4ZCGVTVV4H5FMQCPUYJZXNIZP7A7SBAYBHYR4IMAWD5GM7EXQ3EEA</td></tr>
