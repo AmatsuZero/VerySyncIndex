@@ -10,7 +10,6 @@ document.writeln(`
 <tr><td>ESXI+DSM群晖家庭多媒体数据处理</td><td>25GB</td><td class="ylrj_k">B3AKVBAELGB4VX7CUBMP6GDVH5EZCF3JOYKDOR3YDICAZWQSFHUID7U</td></tr>
 <tr><td>图片无损放大工具 Benvista PhotoZoom Pro 7.1.0</td><td>46MB</td><td class="ylrj_k">B3AJHKXUXMOOFS77IIQDADG4TWAWDWOHXQ4XA2EFSZVCVEI5ZMJ6AMQ</td></tr>
 <tr><td>末世孤雄1-3</td><td>4GB</td><td class="ylrj_k">B3AMZBWAPOCNLGYOQNNQWFIZU6AOANJI4XFM3OEKFAWSQGBDDPUSQC4</td></tr>
-<tr><td>3DHGAME合集</td><td>35.91GB</td><td class="ylrj_k">B3AP5IYRFSUWUJL3XBU5CTRTTN5NLHZYERWTTXF2LZOTMKWF3YPQ4QI</td></tr>
 <tr><td>和琴女娑娜相伴的一个晚上（繁星版）h游戏</td><td>200MB</td><td class="ylrj_k">B3AMEFDGV5AEPVYK2PEIAUBQXQLRGKHMASE4EJ3LUQP2IARKWT5AN52</td></tr>
 <tr><td>taptap付费精选</td><td>7GB</td><td class="ylrj_k">B3AJCZ5KHY4BD5PCAALMFNN6LEUDFTHSHCEUJFZVCG7XUAYZER337Y6</td></tr>
 `)
