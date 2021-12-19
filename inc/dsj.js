@@ -1,4 +1,5 @@
 document.writeln(`
+<tr><td tooltip="美剧为主，随看随录">电视剧合集</td><td>300GB</td><td class="dsj_k">B4M4LDWJKGFPSO2Y2OOVNGIE74I7APBXZOC7OH47B2VBQGGKLMYCOQ</td></tr>
 <tr><td tooltip="清晰度：4K 字幕：简体中文等">Netflix-猎魔人（巫师）S02</td><td>38.7GB</td><td class="dsj_k">B4ZHSVULFZXBSZFR6B2ZEDKIK7EKCDUWDTYO4NNBA4A6GZVJVODS5A</td></tr>
 <tr><td tooltip="Upload.S01美国科幻喜剧类网络电视。本剧由格雷格丹尼尔斯创造，由罗比·阿梅尔主演。 在不远的2033年，六家科技公司运营虚拟现实酒店，将死之人可以“上传（Upload）”其中安享后世。紧巴巴过日子的诺拉蜗居纽约布鲁克林，并为“豪丽禅·湖景（Horizen Lakeview）”豪华数字身后的世界提供“天使”客服。洛杉矶浪荡但小有所成的程序员 内森 突然遭遇自动驾驶车事故，伤势严重命悬一线，富二代女友 英格丽 说服他永久上传，进入 诺拉 供职的豪丽禅虚拟现实世界，本剧由此展开。">美剧《上载新生》第一季</td><td>17.27GB</td><td class="dsj_k">B4VN2PWMYOPORNMBRDPVOU56TBU4NF4WIGNQ3CIG2GFUTMHL4OB4KQ</td></tr>
 <tr><td tooltip="现在更新了鹰眼第一季（1-2集）">美剧合集（持续更新）</td><td>9.9GB</td><td class="dsj_k">B4ERMTWDPLJPC37THYZD7OV5EOHATFLS2QXFFDPSYGZ6MIQB2ID2CQ</td></tr>
