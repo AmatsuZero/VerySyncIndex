@@ -1,7 +1,6 @@
 document.writeln(`
 <tr><td>2021/12/19</td><td tooltip="美剧为主，随看随录">【电视剧】电视剧合集</td><td>300GB</td><td>B4M4LDWJKGFPSO2Y2OOVNGIE74I7APBXZOC7OH47B2VBQGGKLMYCOQ</td></tr>
 <tr><td>2021/12/19</td><td tooltip="个人喜欢的电影，随看随录入。">【电影】热门电影（实时更新）</td><td>300GB</td><td>B4XXC2WYNRLIDZYPX4QBMUIIB5HUB7T5W5E3DYLCQZCSDKDY6EP3HQ</td></tr>
-<tr><td>2021/12/18</td><td tooltip="清晰度：4K 字幕：简体中文等">【电视剧】Netflix-猎魔人（巫师）S02</td><td>38.7GB</td><td>B4ZHSVULFZXBSZFR6B2ZEDKIK7EKCDUWDTYO4NNBA4A6GZVJVODS5A</td></tr>
 <tr><td>2021/12/11</td><td tooltip="阿加莎・克里斯蒂（作品集）,范・达因（作品集）,梅森探案集,东野圭吾（作品集）,横沟正史（作品集）,江户川乱步（作品集）,绫辻行人（作品集）,青崎有吾（作品集）,森村诚一 典藏集,松本清张（作品集）,折原一（作品集）,莫里斯·勒布朗（作品集）,埃勒里·奎因（作品集）">【出版书】全球知名悬疑推理小说全集</td><td>187MB</td><td>B4K3TGFNEH5NAWZGVTH2ZDCO3A4QEMGH3EXZPG3XVCVR73OIYEXCKA</td></tr>
 <tr><td>2021/12/11</td><td tooltip="小猪佩奇是一个可爱的但是有些小专横的小猪。她已经五岁了，与她的猪妈妈，猪爸爸，和弟弟乔治生活在一起。佩奇最喜欢做的事情是玩游戏，打扮的漂漂亮亮，渡假，以及在小泥坑里快乐的跳上跳下和与苏西羊（她最好的朋友）乔治（她的弟弟）一起玩儿，拜访她的猪爷爷，猪奶奶">【少儿】小猪佩奇 第1-8季 国语</td><td>16.2GB</td><td>B4V5W4D3A25ZNMYVSKHHRAJORVWFEFUOMRKFBCSIRCZW5ISJOXYBRQ</td></tr>
 <tr><td>2021/12/11</td><td tooltip="视频教程（含素材）">【知识培训】Photoshop 2020 入门到精通</td><td>1.4GB</td><td>B4QNN6Y5VZ4HZIPFYRWXNKGAM2YN7HTXXCIEJI4YLFKVDMF5AQHGIA</td></tr>
