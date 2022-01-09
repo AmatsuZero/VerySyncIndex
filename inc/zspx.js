@@ -1,4 +1,5 @@
 document.writeln(`
+<tr><td tooltip="新版标准日本语课本及音频，附带一些日语词汇资料">新版标准日本语课本及音频</td><td>1GB</td><td class="zspx_k">B4CW7THJYKWD2ENWERX5BP264MYWSRKBBVKJV3N5OSZVLPPPMGKBEQ</td></tr>
 <tr><td tooltip="自用整理，命名规范">牛津书虫第3级 mp3与电子书19本全</td><td>1GB</td><td class="zspx_k">B4BLKP5OJEPJ6A57IBUSDOWQXPRTC6EYLOJQDJXPX4Z66JHJURWLPQ</td></tr>
 <tr><td tooltip="视频教程（含素材）">Photoshop 2020 入门到精通</td><td>1.4GB</td><td class="zspx_k">B4QNN6Y5VZ4HZIPFYRWXNKGAM2YN7HTXXCIEJI4YLFKVDMF5AQHGIA</td></tr>
 <tr><td tooltip="绿色编程工具与书籍">程序猿（媛）可进</td><td>1GB</td><td class="zspx_k">B4R4CCADQTPIMU2R5CAJ5NCHHMOSAEAZ54LCDAEFYXAY5ZO4LOHWYA</td></tr>
