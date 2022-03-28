@@ -1,0 +1,65 @@
+{
+    "info": {
+        "code": "hydm",
+        "name": "华语动漫",
+        "cat_num": 134
+    },
+    "data": [
+        {
+            "key": "B4X3P3DSZTNAZB574D3JZLWMQLBNGHWO624WNYO3S4TFB3GBUQXZIA",
+            "cat": "hydm",
+            "title": "秦时明月之万里长城",
+            "des": "",
+            "tk": "014173bcda71d0ee"
+        },
+        {
+            "key": "B4TTURNKRMUS2KBFDOATX6O4Y26F5G6OMPORIECWXNKGDGIOWSU6ZQ",
+            "cat": "hydm",
+            "title": "雄兵连1-4季合集",
+            "des": "",
+            "tk": "014173bcda71d0ee"
+        },
+        {
+            "key": "B4TLRD5MIVDKSI5NBEGW6CE2BDBZHFCR7B4ZB2ULY73GKQZW4UPGDA",
+            "cat": "hydm",
+            "title": "一人之下1到4季（第4季更新中）",
+            "des": "",
+            "tk": "014173bcda71d0ee"
+        },
+        {
+            "des": "2014年，来历不明的太空舰队进入了太阳系。名为“饕餮”的外星人以取悦冥河星系主神卡尔为目的，意图在地球制造死亡。地球文明正处于核前时代，目前的军事实力无法面对这场浩劫。面对危机，华夏军方和万年前德诺星系诺言之星的指挥官杜卡奥决定建立“雄兵连”，唤醒千年以前杜卡奥散布在地球的神河基因，配之以暗合金装甲，建立一支可抵百万雄兵的超级连队。一句话，我彦最美！",
+            "title": "雄兵连1-4季合集",
+            "tok": "",
+            "cat": "rhdm",
+            "key": "B4TTURNKRMUS2KBFDOATX6O4Y26F5G6OMPORIECWXNKGDGIOWSU6ZQ"
+        },
+        {
+            "des": "小猪佩奇是一个可爱的但是有些小专横的小猪。她已经五岁了，与她的猪妈妈，猪爸爸，和弟弟乔治生活在一起。佩奇最喜欢做的事情是玩游戏，打扮的漂漂亮亮，渡假，以及在小泥坑里快乐的跳上跳下和与苏西羊（她最好的朋友）乔治（她的弟弟）一起玩儿，拜访她的猪爷爷，猪奶奶",
+            "title": "小猪佩奇 第1-8季 国语",
+            "tok": "",
+            "cat": "hydm",
+            "key": "B4V5W4D3A25ZNMYVSKHHRAJORVWFEFUOMRKFBCSIRCZW5ISJOXYBRQ"
+        },
+        {
+            "des": "动画片“汪汪队立大功 PAW Patrol”这部美国学龄前儿童教育动画片，也是一部尼克儿童频道2014年热播中的新作，讲述男孩莱德带领的一个狗狗救援队的精彩故事。可以让孩子们在欣赏动画的同时，学习一些基础的安全和救援知识。  家里有小孩的推荐同步哦",
+            "title": "汪汪队立大功 1-5季全集中文",
+            "tok": "",
+            "cat": "hydm",
+            "key": "B45MLVNKO2BDJ7B35IB26OWAXOGOVLPL7X2VNMCXL4WBYGHYRCYHRQ"
+        },
+        {
+            "des": "故事讲述了飞机机器人乐迪与一群称为“超级飞侠”的小伙伴环游世界，为小朋友递送包裹，并帮助他们解决困难的故事。作品最大的特点是每一集发生的城市都不同，用精美的画面展现了世界多元文化，例如名胜、建筑、语言、节日和美食等。故事传递着善良、勇敢、欢乐和友爱，让孩子跟随乐迪在每一次新的神奇之旅中，可以开阔眼界并认识到多彩绚丽的地球家园。",
+            "title": "超级飞侠1-9季合集",
+            "tok": "",
+            "cat": "hydm",
+            "key": "B4O6ONR2XNVCQ34NYIU2NKBXLQDWMFA3WP3C6DUTPJCJTDC2GXC33A"
+        },
+        {
+            "des": "1998年动画片",
+            "title": "西游记 动画版",
+            "tok": "",
+            "cat": "hydm",
+            "key": "B4HC4FSJRXTGKTX2X4WF5SLK4OA6ERECDEPMYNQ7F6WW7IBG6XVV2Q"
+        }
+    ]
+}
