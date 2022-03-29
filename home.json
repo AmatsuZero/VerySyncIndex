@@ -1,10 +1,17 @@
 {
     "info": {
         "site": "神KEY",
-        "key_num": 5753,
+        "key_num": 25,
         "alert_token": 1647015858,
         "msg": "小伙伴们，重复资源不要提交，避免资源浪费",
         "new": [
+            {
+                "key": "B43CW7OUTKJQBV4NTKNJA4XVIFWVQQD7GQ5ZB3FWHMCJ2FBS7D6AJA",
+                "date": "03\/28",
+                "cat": "hydy",
+                "title": "狙击手 4K",
+                "des": "[2022]影片以抗美援朝战争中“冷枪冷炮”运动为背景，通过一段中国志愿军狙击小 队与美军精英狙击队之间的殊死对决，展现了朝鲜战场上志愿军战士艰难取胜的英勇故事和可歌可泣的奉献精神。"
+            },
             {
                 "key": "B4RFX7STTMRILFXMSS3I2U2IFTM7WCHC4F3NQ67W3UKYDV4XG3RCRQ",
                 "date": "03\/01",
@@ -208,7 +215,7 @@
                 {
                     "cat": "rhds",
                     "des": "老公进不来的剧情简介 · · · · · ·本剧以主妇こだま的自传改编，描述发现丈夫・研一（中村苍）的性器插不进来，仍持续与对方交往并结婚的女性渡边（山本）久美子（石桥菜津美）为主角的故事。",
-                    "title": "[日剧]《老公进不来/老公的弟弟插不进来》[全10集][日语中字][1080p]",
+                    "title": "[日剧]《老公进不来\/老公的弟弟插不进来》[全10集][日语中字][1080p]",
                     "tok": "",
                     "key": "B4J57XJXSAJX5DTMANP5HSD4RN4BAYBDNIHTKBUTSYF63PJC3WVXWQ"
                 },
@@ -341,12 +348,19 @@
             "info": {
                 "code": "hydy",
                 "name": "华语电影",
-                "cat_num": 340
+                "cat_num": 21
             },
             "data": [
                 {
+                    "key": "B43CW7OUTKJQBV4NTKNJA4XVIFWVQQD7GQ5ZB3FWHMCJ2FBS7D6AJA",
+                    "cat": "hydy",
+                    "title": "狙击手 4K",
+                    "des": "[2022]影片以抗美援朝战争中“冷枪冷炮”运动为背景，通过一段中国志愿军狙击小 队与美军精英狙击队之间的殊死对决，展现了朝鲜战场上志愿军战士艰难取胜的英勇故事和可歌可泣的奉献精神。",
+                    "tok": "d0776f5e53a07454"
+                },
+                {
                     "des": "电影以抗美援朝战争第二次战役中的长湖战设 为背景，讲述了一段演杜的历史：71年前 中国人民志原三赴朝作战",
-                    "title": "2021电影【长津湖1080P】剧情/历史/战争",
+                    "title": "2021电影【长津湖1080P】剧情\/历史\/战争",
                     "tok": "",
                     "cat": "hydy",
                     "key": "B4NZWUWKBUIU27GOESUJU72BSRLP5XI7M6O7CU3USH2X3STFKIVCUA"
@@ -558,7 +572,7 @@
                     "key": "B3APH5MTSB5F24UAMODW5E5TKER57XDLWIB4CA4J5TMLKBEM5YVJXIS"
                 },
                 {
-                    "des": "动漫新番 剧场版（持续更新）长期更新。 2021/11/30   已经更新",
+                    "des": "动漫新番 剧场版（持续更新）长期更新。 2021\/11\/30   已经更新",
                     "title": "动漫新番 剧场版（持续更新）",
                     "tok": "",
                     "cat": "rhdm",
@@ -646,7 +660,7 @@
                     "key": "B3AO2DIEQDCLZPWCKFLFHF4H2RNDH4AAGIDVJ4J2PL33ECEEXFZKWFS"
                 },
                 {
-                    "des": "Netfilx精品纪录片：解释一切/特朗普的美国梦/尖端医疗真相",
+                    "des": "Netfilx精品纪录片：解释一切\/特朗普的美国梦\/尖端医疗真相",
                     "title": "Netfilx精品纪录片（Netfilx出品必属精品）",
                     "tok": "",
                     "cat": "jlp",
@@ -1081,7 +1095,7 @@
             },
             "data": [
                 {
-                    "des": "需要通过命令提示符安装，在下载目录按住Shift点右键，以管理员身份打开命令提示符，执行set /configure install.xml安装。可使用kms服务器激活，没下载多余的东西，全部为专业增强版",
+                    "des": "需要通过命令提示符安装，在下载目录按住Shift点右键，以管理员身份打开命令提示符，执行set \/configure install.xml安装。可使用kms服务器激活，没下载多余的东西，全部为专业增强版",
                     "title": "office 2019 vol版 仅包含word excel powerponit 三件套",
                     "tok": "",
                     "cat": "bgrj",
@@ -1499,7 +1513,7 @@
             "data": [
                 {
                     "des": "星空照片，分辨率都挺高的，调一下可以用来做壁纸",
-                    "title": "一些星空照片，https://esahubble.org上爬下来的",
+                    "title": "一些星空照片，https:\/\/esahubble.org上爬下来的",
                     "tok": "",
                     "cat": "fj",
                     "key": "B3APY7WCFNLL44RZR3JZNFFHCNKH3LFXRKRP3HBULCSYDZE3J7FHSQC"
